@@ -1,5 +1,5 @@
 # 🌎Mif Soft
-Very nice site for a cool community
+Very nice designer mifsoft community site
 
 # Description
 This site was created by one person in 4 months
