@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en-US">
 <head>
-<title>RPCS3 - 400</title>
+<title>Mif Soft - 400</title>
 <meta charset="utf-8">
 <meta name="robots" content="noindex, nofollow">
 <?php include 'lib/module/sys-meta.php';?>
