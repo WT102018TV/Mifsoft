@@ -2,7 +2,7 @@
 Very nice designer mifsoft community site
 
 # Description
-This site was created by one person in 4 months
+This site was created by one person in 4 day
 and it turned out to be very beautiful
 created in php and js
 for the myth software company
