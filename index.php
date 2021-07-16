@@ -9,275 +9,351 @@
 <meta name="copyright" content="МифСофт">
 <meta name="google-site-verification" content="cO1o6sx54cvKxhbnYsABWtl4sYFj9uVKV0DxLKZkWv8"/>
 <?php include 'lib/module/sys-meta.php';?>
-<?php include 'lib/module/sys-css.php';?>
-<?php include 'lib/module/sys-js.php';?>
-<script data-cfasync="false" src='/lib/js/carousel.js?v=1'></script>>
+<?php include 'lib/module/sys-2.php';?>
 </head>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-1K5KGSY850"></script>
+  <!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+  <meta name="yandex-verification" content="6d503e7caac40356" />
+  <meta name="yandex-verification" content="6d503e7caac40356" />
+
+  </head> 
+  <body>
+<div class="wrap">
+
+	<div class="main center">
+		<header class="header" id="header">
+			<a href="/" class="logotype" title="mifsoft основной сайт"></a>
+			<div class="search-box">
+                <formo>
+					<inputsasas>
+					<inputsa>
+					<div>
+						<inputasas>
+						
+					</div>
+				</formg>									
+
+			</div>       
+		</header>
+		<div class="cols clearfix" id="cols">
+			<div class="content">
+				
+				<div class="main-title clearfix">
+			    </div>
+				<div class="shotdiv">
+				<div class="floaters clearfix grid grid-list" data-view="grid-list " id="grid">
+				<div style="background: #f3f3f3;color: #040404;border-left: 3px solid red;padding: 10px 6px;font-weight: bold;text-transform: uppercase;font-size: 14px;margin-bottom: 5px;">Если у вас выдаёт ошибку 502 значит автор грузит статью по ftp либо происходит кэширования для быстрой загрузки сайта<br>Попробуете через несколько минут😉</div>			
+				
+				
+				
+                
+				
+				
+				
+				
+				
+				    
+					<div id='dle-content'><div class="mov clearfix">
+	<div class="mov-i img-box">
+		<img src="/img/img-sborki/Windows-11.png" alt="Виндовс 11" />
+		<div class="mov-mask flex-col ps-link" data-link="/windows11.php"><span class="fa fa-play"></span></div>
+		
+			
+			
+	</div>
+	<a class="mov-t nowrap" href="/windows11.php"> Windows 11 x64 Beta Dev OS x64 Build 21996 [En] (15.06.21)</a>
+	<div class="movie-text">
+			<ul class="movie-lines">
+				<li><div class="ml-label">Версия:</div><div class="ml-desc">  Windows 11 x64 Beta Dev OS x64 Build 21996 [En] (15.06.21) </div></li>
+				<li><div class="ml-label">Разработчик: </div> <div class="ml-desc"> Microsoft </div></li>
+				<li><div class="ml-label">Язык интерфейса:</div> <div class="ml-desc"> Английский</div></li>
+				<li><div class="ml-label">Разрядность:</div> <div class="ml-desc"> 64 bit </div></li>
+				<li><div class="ml-label">Лечение:</div> <div class="ml-desc"> Требует активации  </div></li>
+			    <li><div class="ml-label">Размер:</div> <div class="ml-desc"> 4.5 Гб </div></li>
+			</ul>
+			<div class="movie-desc2">Доступна BETA версия новой Windows 11 64 битый неофициальный образ на английском уже сейчас можно скачать через торрент, понятно это не полноценна ОС но все же интересно установить самую последнюю существующую операционную систему Виндовс 11. Не смотря что это пробная версия, весь функционал....</div>
+	</div>
+</div><div class="mov clearfix">
+	<div class="mov-i img-box">
+		<img src="/img/img-sborki/win7mif.png" alt="" />
+		<div class="mov-mask flex-col ps-link" data-link="/windows7new"><span class="fa fa-play"></span></div>
+		
+			
+			
+	</div>
+	<a class="mov-t nowrap" href="/windows7new">Windows 7 by mif  soft (updated)</a>
+	<div class="movie-text">
+			<ul class="movie-lines">
+				<li><div class="ml-label">Версия:</div><div class="ml-desc"> Windows 7 by mif  soft (updated) </div></li>
+				<li><div class="ml-label">Разработчик: </div> <div class="ml-desc"> Microsoft </div></li>
+				<li><div class="ml-label">Язык интерфейса:</div> <div class="ml-desc"> Русский </div></li>
+				<li><div class="ml-label">Разрядность:</div> <div class="ml-desc"> 64 bit </div></li>
+				<li><div class="ml-label">Лечение:</div> <div class="ml-desc"> Требует активации (<a href="/activator-wd" >Win10 Digital Activation</a>) </div></li>
+			    <li><div class="ml-label">Размер:</div> <div class="ml-desc"> 1.58 Гб </div></li>
+			</ul>
+			<div class="movie-desc2">Лучшая сборка от mif soft</div>
+	</div>
+</div><div class="mov clearfix">
+	<div class="mov-i img-box">
+		<img src="/img/img-sborki/wd10.jpg" alt= />
+		<div class="mov-mask flex-col ps-link" data-link="/activator-wd.php"><span class="fa fa-play"></span></div>
+		
+			
+			
+	</div>
+	<a class="mov-t nowrap" href="/activator-wd.php">Windows 10 Digital Activate - лучший активатор </a>
+	<div class="movie-text">
+			<ul class="movie-lines">
+				<li><div class="ml-label">Версия:</div><div class="ml-desc"> 1.07 </div></li>
+				<li><div class="ml-label">Разработчик: </div> <div class="ml-desc">WD 10</div></li>
+				<li><div class="ml-label">Язык интерфейса:</div> <div class="ml-desc"> RU-ENG </div></li>
+				<li><div class="ml-label">Разрядность:</div> <div class="ml-desc"> 64 bit </div></li>
+				<li><div class="ml-label">Лечение:</div> <div class="ml-desc"> Ненужна </div></li>
+			    <li><div class="ml-label">Размер:</div> <div class="ml-desc"> 1.1 мб </div></li>
+			</ul>
+			<div class="movie-desc2">Лучший активатор для Windows 10 не слетайка</div>
+	</div>
+</div><div class="mov clearfix">
+	<div class="mov-i img-box">
+		<img src="/img/img-sborki/images.png" alt= />
+		<div class="mov-mask flex-col ps-link" data-link="/windows-noviy-build.php"><span class="fa fa-play"></span></div>
+		
+
+
+			</div>
+	<a class="mov-t nowrap" href="/windows-noviy-build.php">Windows 11 22000.51</a>
+	<span class="tags">
+	<div class="movie-text">
+			<ul class="movie-lines">
+				<li><div class="ml-label">Версия:</div><div class="ml-desc"> Windows 11 22000.51 - новая винда</div></li>
+				<li><div class="ml-label">Разработчик: </div> <div class="ml-desc">Microsoft</div></li>
+				<li><div class="ml-label">Язык интерфейса:</div> <div class="ml-desc"> ENG </div></li>
+				<li><div class="ml-label">Разрядность:</div> <div class="ml-desc"> 64 bit </div></li>
+				<li><div class="ml-label">Лечение:</div> <div class="ml-desc"> Ненужна </div></li>
+			    <li><div class="ml-label">Размер:</div> <div class="ml-desc"> ? </div></li>
+			</ul>
+			<div class="movie-desc2">Доступна BETA версия новой Windows 11 64 битный официальный образ на русском уже сейчас можно скачать через создание исо с помощью файла рекомендую создовать на виртуалке, понятно это не полноценна ОС но все же интересно установить самую последнюю существующую операционную систему Виндовс 11. Не смотря что это пробная версия, весь функционал....</div>
+	</div>
+	</div><div class="mov clearfix">
+		<div class="mov-i img-box">
+		<img src="/img/img-sborki/sonicmaniaplus.png" alt="Виндовс 11" />
+		<div class="mov-mask flex-col ps-link" data-link="/sonicmaniaplus"><span class="fa fa-play"></span></div>
+
+
+
+			</div>
+	<a class="mov-t nowrap" href="/sonicmaniaplus">Sonic Mania Plus - игра к дню рожденью франшизы соника</a>
+	<span class="tags">
+	<div class="movie-text">
+			<ul class="movie-lines">
+				<li><div class="ml-label">Версия:</div><div class="ml-desc"> REPACK </div></li>
+				<li><div class="ml-label">Разработчик: </div> <div class="ml-desc">SEGA</div></li>
+				<li><div class="ml-label">Язык интерфейса:</div> <div class="ml-desc"> Мультиязычный </div></li>
+				<li><div class="ml-label">Разрядность:</div> <div class="ml-desc"> 64 bit </div></li>
+				<li><div class="ml-label">Лечение:</div> <div class="ml-desc"> Вшита </div></li>
+			    <li><div class="ml-label">Размер:</div> <div class="ml-desc"> 194 мб </div></li>
+			</ul>
+			<div class="movie-desc2">Sonic Mania Plus
+Игровой процесс и визуальный стиль Sonic Mania схожи с первыми частями серии для приставки Mega Drive/Genesis. По сюжету ёж Соник, лис Тейлз и ехидна Наклз обнаружили на острове Ангелов мощный источник энергии — Рубин...</div>
+	</div>
+	</div><div class="mov clearfix">
+	<div>
+	</div>
+	</div><div class="mov clearfix">
+	<div class="mov-i img-box">
+	<img src="/img/img-sborki/mypal-repack.png" alt="Виндовс 11" />
+	<div class="mov-mask flex-col ps-link" data-link="/mypal-repack.php"><span class="fa fa-play"></span></div>
+
+
+			</div>
+	<a class="mov-t nowrap" href="/mypal-repack.php">Mypal - современный браузер для систем Windows XP\Vista.</a>
+	<span class="tags">
+	<div class="movie-text">
+			<ul class="movie-lines">
+				<li><div class="ml-label">Версия:</div><div class="ml-desc"> REPACK </div></li>
+				<li><div class="ml-label">Разработчик: </div> <div class="ml-desc">Mif Soft (Dev Mypal)</div></li>
+				<li><div class="ml-label">Язык интерфейса:</div> <div class="ml-desc"> Мультиязычный </div></li>
+				<li><div class="ml-label">Разрядность:</div> <div class="ml-desc"> Оба </div></li>
+				<li><div class="ml-label">Лечение:</div> <div class="ml-desc"> Вшита </div></li>
+			    <li><div class="ml-label">Размер:</div> <div class="ml-desc"> 50  мб </div></li>
+			</ul>
+			<div class="movie-desc2">Mypal - современный браузер для систем Windows XP\Vista.
+          Первый репак от миф софт поиск по умолчанию и домашняя страница - Google  в браузер добавлен блокировщик рекламы uBlock Origin + руссификатор </div>	</div>
+	</div><div class="mov clearfix">
+	<div>
+	</div>
+	</div><div class="mov clearfix">
+	<div class="mov-i img-box">
+	<img src="/img/img-sborki/photoshop-2021-repack.png" alt="Виндовс 11" />
+	<div class="mov-mask flex-col ps-link" data-link="/photoshop-2021-repack"><span class="fa fa-play"></span></div>
+
+
+			</div>
+	<a class="mov-t nowrap" href="/photoshop-2021-repack">Photoshop 2021 - самая лучшая программа для обработки фота</a>
+	<span class="tags">
+	<div class="movie-text">
+			<ul class="movie-lines">
+				<li><div class="ml-label">Версия:</div><div class="ml-desc"> REPACK </div></li>
+				<li><div class="ml-label">Разработчик: </div> <div class="ml-desc">Mif Soft (Adobe)</div></li>
+				<li><div class="ml-label">Язык интерфейса:</div> <div class="ml-desc"> Мультиязычный </div></li>
+				<li><div class="ml-label">Разрядность:</div> <div class="ml-desc"> Оба </div></li>
+				<li><div class="ml-label">Лечение:</div> <div class="ml-desc"> Вшита </div></li>
+			    <li><div class="ml-label">Размер:</div> <div class="ml-desc"> 1,6 GB   </div></li>
+			</ul>
+			<div class="movie-desc2">
+Adobe Photoshop — это комплексное решение для профессиональной обработки цифровых изображений, которое содержит самые современные инструменты для работы с изображениями и новые возможности для реализации творческих идей, которые позволяют значительно повысить производительность. Редактируйте изображения с исключительной точностью, используйте новые интуитивно понятные инструменты и рабочие процессы для создания трехмерной графики, двухмерных проектов, а также фильмов </div> 	</div>
+	</div><div class="mov clearfix">
+		<div class="mov-i img-box">
+		<img src="/img/img-sborki/recuva.png" alt="Виндовс 11" />
+		<div class="mov-mask flex-col ps-link" data-link="/sonicmaniaplus"><span class="fa fa-play"></span></div>
+
+
+
+			</div>
+	<a class="mov-t nowrap" href="/sonicmaniaplus">Recuva - Софт для восстановления любых файлов</a>
+	<span class="tags">
+	<div class="movie-text">
+			<ul class="movie-lines">
+				<li><div class="ml-label">Версия:</div><div class="ml-desc">Pifiform</div></li>
+				<li><div class="ml-label">Разработчик: </div> <div class="ml-desc">v 1.53.1087</div></li>
+				<li><div class="ml-label">Язык интерфейса:</div> <div class="ml-desc">Eng</div></li>
+				<li><div class="ml-label">Разрядность:</div> <div class="ml-desc"> оба</div></li>
+				<li><div class="ml-label">Лечение:</div> <div class="ml-desc"> Отсутвует </div></li>
+			    <li><div class="ml-label">Размер:</div> <div class="ml-desc"> 194 мб </div></li>
+			</ul>
+			<div class="movie-desc2">Это программа совместимая с Windows, и ее также можно использовать для извлечения удаленных файлов с внешних дисков и устройств, таких как Mp3-плееры.
+
+Программа имеет простой интерфейс, как и любая программа Windows. Программу можно запустить через USB-накопитель. Программа также поддерживает такие ключевые форматы, как файловые системы FAT12, FAT16, FAT32, exFAT, NTFS, NTFS5, NTFS + EFS и другие. Программа способна восстанавливать все типы файлов. Сюда входят офисные документы, изображения, фотографии, видео, аудио, музыка, электронная почта и т. Д. Программа также может восстанавливать данные с жестких дисков ZIP, Firewire и USB.</div>
+
+
+			
+			
+
+	</div>
+</div><div class="clr"></div>
+<div class="pagi-nav clearfix ignore-select">
+	
+	<span class="navigation"><span>1</span>																																																																																																																																	
+</div></div>
+				</div></div>
+				
+					
+			
+				
+			</div>		
+				
+				
+                
+				
+				
+				
+				
+	
+
+					
+			<!-- end content -->
+			
+			<aside class="sidebar">
+                <br>
+				<br>
+				<br>
+				<div class="side-b">
+					<div class="side-t ic-l decor"><img src="/img/sidebar/win11.png" style="vertical-align: middle;"><b>Windows 11</b></img></div>
+					<div class="side-c flex-row">
+					<br>
+						<p><a href="/original-windows11.php" alt="">- Оригинальные образы Windows 11</a>
+						<br>
+						<br>
+						<p><a href="/1.php" alt="Лучшие сборки Windows 11 64 bit">- Лучшие сборки</a>
+					</div>
+				</div>
+               <hr style="width:80%; border: none; color: #d9dde1; background-color:#d9dde1;height: 1px;margin-left:20px;">
+			   <br>
+        <div class="side-b">
+					<div class="side-t ic-l decor"><img src="/img/sidebar/win7_logo.png" style="vertical-align: middle;"><b>Windows 7</b></img></div>
+					<div class="side-c flex-row">
+					<br>
+						<p><a href="" alt="/poka-net-sborok.php">- Оригинальные образы 7</a>
+						<br>
+						<br>
+						<p><a href="/poka-net-sborok.php" alt="Лучшие сборки Windows 7 64 bit">- Лучшие сборки</a>
+						<br>
+						<br>
+						<p><a href="/poka-net-sborok.php">- Live Windows 7 PE USB</a>
+					</div>
+				</div>
+               <hr style="width:80%; border: none; color: #d9dde1; background-color:#d9dde1;height: 1px;margin-left:20px;">
+			   <br>
+                     <div class="side-b">
+					<div class="side-t ic-l decor"><img src="/img/sidebar/win10.png" style="vertical-align: middle;"><b>Windows 10</b></img></div>
+					<div class="side-c flex-row">
+					<br>
+						<p><a href="/poka-net-sborok.php">- Оригинальные образы 10</a>
+						<br>
+						<br>
+						<p><a href="/poka-net-sborok.php">- Лучшие сборки</a>
+						<br>
+						<br>
+						<p><a href="/poka-net-sborok.php">- Live Windows 10 PE USB</a>
+					</div>
+				</div>
+				<hr style="width:80%; border: none; color: #d9dde1; background-color:#d9dde1;height: 1px;margin-left:20px;">
+				<br>
+				        <div class="side-b">
+					<div class="side-t ic-l decor"><img src="/img/sidebar/win10.png" style="vertical-align: middle;"><b>Windows 8</b></img></div>
+					<div class="side-c flex-row">
+					<br>
+						<p><a href="/poka-net-sborok.php">- Оригинальные образы 8</a>
+						<br>
+						<br>
+						<p><a href="/poka-net-sborok.php">- Лучшие сборки</a>
+					</div>
+				</div>
+				<hr style="width:80%; border: none; color: #d9dde1; background-color:#d9dde1;height: 1px;margin-left:20px;">
+				<br>
+						                     <div class="side-b">
+					<div class="side-t ic-l decor"><img src="/img/sidebar/win7_logo.png" style="vertical-align: middle;"><b>Windows XP</b></img></div>
+					<div class="side-c flex-row">
+					<br>
+						<p><a href="/poka-net-sborok.php">- Оригинальные образы XP</a>
+						<br>
+						<br>
+						<p><a href="/poka-net-sborok.php">- Лучшие сборки</a>
+						<br>
+						<br>
+						<p><a href="/poka-net-sborok.php">- Live Windows XP PE USB</a>
+					</div>
+				</div>
+				<hr style="width:80%; border: none; color: #d9dde1; background-color:#d9dde1;height: 1px;margin-left:20px;">
+			<br>
+				 <div class="side-b">
+					<div class="side-t ic-l decor"><img src="/img/sidebar/win7_logo.png" style="vertical-align: middle;"><b>Windows Server</b></img></div>
+					<div class="side-c flex-row">
+					<br>
+						<p><a href="/poka-net-sborok.php">- Оригинальные образы</a>
+						<br>
+						<br>
+						<p><a href="">- Лучшие сборки</a>
+					</div>
+				</div>
+				<hr style="width:80%; border: none; color: #d9dde1; background-color:#d9dde1;height: 1px;margin-left:20px;">    
+			<br>
+					<div class="side-c flex-row">
+					    <p><img src="/img/sidebar/softwin.png" style="vertical-align: middle;">   <a href="/programy-dly-windows"><font size=4>  Программы</font></a></img>
+					    <br>
+						<br>
+						<p><img src="/img/sidebar/awin.png" style="vertical-align: middle;">     <a href="/activator-wd"><font size=4>  Активаторы</font></a></img>
+						<br>
+						<br>
+				        <p><img src="/img/sidebar/Origin.png "style="vertical-align: middle;">   <a href="/games.php"><font size=4> Игры </font></a></img>
+					    <br>
+						<br>
+						</div>    
+<hr style="width:80%; border: none; color: #d9dde1; background-color:#d9dde1;height: 1px;margin-left:20px;"> 
+<div class="side-c flex-row">
+<br>
+				<br>
+
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-1K5KGSY850');
-</script>
-<script id="chatBroEmbedCode">/* Chatbro Widget Embed Code Start */function ChatbroLoader(chats,async){async=!1!==async;var params={embedChatsParameters:chats instanceof Array?chats:[chats],lang:navigator.language||navigator.userLanguage,needLoadCode:'undefined'==typeof Chatbro,embedParamsVersion:localStorage.embedParamsVersion,chatbroScriptVersion:localStorage.chatbroScriptVersion},xhr=new XMLHttpRequest;xhr.withCredentials=!0,xhr.onload=function(){eval(xhr.responseText)},xhr.onerror=function(){console.error('Chatbro loading error')},xhr.open('GET','//www.chatbro.com/embed.js?'+btoa(unescape(encodeURIComponent(JSON.stringify(params)))),async),xhr.send()}/* Chatbro Widget Embed Code End */ChatbroLoader({encodedChatId: '887vH'});</script>
-<body>
-<img src=/img/graphics/landing/src/ermakov.png" width="1" height="1" alt="Preload"/>
-<img src="/img/videos/1.jpg" width="1" height="1" alt="Preload"/>
-<img src="/img/videos/1b.jpg" width="1" height="1" alt="Preload"/>
-<img src="/img/videos/2.jpg" width="1" height="1" alt="Preload"/>
-<img src="/img/videos/2b.jpg" width="1" height="1" alt="Preload"/>
-<img src="/img/videos/3.jpg" width="1" height="1" alt="Preload"/>
-<img src="/img/videos/3b.jpg" width="1" height="1" alt="Preload"/>
-<?php include 'lib/module/sys-php.php';?>
-<?php include 'lib/module/ui-main-video.php'?>
-<?php
-	preloadVideo(
-	'1',
-	'RKsLVfST-z8',
-	'1'
-	);
-	preloadVideo(
-	'2',
-	'_aEVRkxR08k',
-	'2'
-	);
-	preloadVideo(
-	'3',
-	'8FTQgFT6Znw',
-	'3'
-	);
-?>
 
-<div class="page-con-content landing-con-override">
-		<div class="wavebar-con-container-master">
-			<div class="wavebar-con-wrap">
-			  <div class="wavebar-svg-object"></div>
-			  <div class="wavebar-svg-object"></div>
-			</div>
-		</div>
-	<div class='landing-ico-scrolldown'>
-	</div>
-	<div class="landing-con-main">
-		<div id="object-particles">
-		</div>
-		<div class="content-con-backdrop darkmode-header">
-		</div>
-		<div class="content-con-outside">
-			<div class="content-con-inside">
-				<div class='landing-con-left content-expand '>
-					<div class="landing-con-container scale-content-txt-1 fade-in-onload">
-						<div class='landing-ico-logo'>
-						</div>
-						<div class='landing-tx1-heading pulsate'>
-							<h1>Mif Soft<br>
-							     </h1>
-						</div>
-						<div class='landing-tx2-heading'>
-							<p>
-							МифСофт - это чистые сборки Windows с приятным интерфейсом.
-							TideSoft - это грязные сборки для вашего компьютера, которыми неприятно пользоваться.
-МифСофт - это чистые сборки для вашего компьютера, которыми приятно пользоваться.
-
-МифСофт лучше чем <a href="https://vk.com/tidesoft">Tidesoft</a>
-							</p>
-							<div class='landing-btn-container'>
-								<a href="https://discord.me/gamesworld">
-								<div class='landing-btn-download'>
-									<span>Зайти </span>
-								</div>
-								</a>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class='landing-con-right content-remove '>
-					<div class='landing-img-hero' style="background: url(img/graphics/landing/src/ermakov.png) no-repeat center; background-size: contain;">
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-	<div class="">
-		<div class="">
-		</div>
-		<div class=''>
-			<div class="">
-				<div class="">
-					<div class="">
-						<div class="">
-						</div>
-						<div class="">
-							<a href="" target="_blank">
-							<span class="darkmode-txt">
-							<span class="">
-							</span>
-							</span>
-							</a>
-						</div>
-						<form action='' method=''>
-						</form>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-<div class="content">
-  ..
-</div>
-	<div class="landing-con-contribute darkmode-feature">
-		<div class="content-con-outside">
-			<div class="content-con-inside">
-				<div class="github-con-container">
-					<div class="github-con-logo">
-						<div class="github-img-logo">
-						</div>
-					</div>
-					<div class="github-con-mantra">
-						<div class="github-wrp-mantra scale-content-txt-1 ">
-							<div class="github-tx1-mantra darkmode-txt">
-								<h2>Где отзывы?</h2>
-							</div>
-							<div class="github-tx2-mantra darkmode-txt">
-								<p>
-									Если вы хотите нам помочь то вы можите написать отзыв о нашем сайте нажав на кнопку ниже чтобы написать отзыв в вк
-									вы также можете дать нам софт и идеи для сборок
-								</p>
-							</div>
-							<a href="https://vk.com/topic-200659330_47872933" target="_blank">
-							<div class="vk-btn-button">
-								<div class="vk-ico-button">
-								</div>
-								<div class="vk-tx1-button">
-									<span>Отзыв</span>
-								</div>
-							</div>
-							</a>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-	<div class="landing-con-adsense">
-		<div class='adsense-tx1-description darkmode-txt'>
-			<span>Местечко для рекламы</span>
-		</div>
-		<div class="adsense-con-container darkmode-slimbar div-css-board-ad">
-			<div class="adsense-con-frame">
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Реклама -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-6831793740441068"
-     data-ad-slot="2193652293"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-				</script>
-			</div>
-		</div>
-	</div>
-	<div class="landing-con-patreon darkmode-feature">
-		<div class="content-con-outside">
-			<div class="content-con-inside">
-				<div class="patreon-con-container">
-					<div class="patreon-con-logo">
-						<div class="patreon-img-logo">
-						</div>
-					</div>
-					<div class="patreon-con-mantra">
-						<div class="patreon-wrp-mantra scale-content-txt-1 ">
-							<div class="patreon-tx1-mantra darkmode-txt">
-								<h2>Бустеры</h2>
-							</div>
-							<div class="patreon-tx2-mantra darkmode-txt">
-								<p>
-                                 Спасибо тем кто нас поддерживает на бусти вам будут доступны специальные плюшки чаты которые ма вам заготовили ёщё раз спасибо всем тем кто нас бустит мы потратим эти деньги на хостинг и рекламу а также для сотрудников
-								</p>
-							</div>
-							<a href="https://boosty.to/mifsoftware" target="_blank">
-							<div class="patreon-btn-button">
-								<div class="patreon-ico-button">
-								</div>
-								<div class="patreon-tx1-button">
-									<span>Поддержать</span>
-								</div>
-							</div>
-							</a>
-						</div>
-					</div>
-				</div>
-			</div>
-    <div id="ka-info" class="KICKASSELEMENT">
-        <div class="KICKASSELEMENT">
-            <p class="KICKASSELEMENT"><kbd class="KICKASSELEMENT">SPACE</kbd> - стрелять</p>
-            <p class="KICKASSELEMENT"><kbd class="KICKASSELEMENT"></kbd> - лететь</p>
-            <p class="KICKASSELEMENT"><kbd class="KICKASSELEMENT">F</kbd> - спец. выстрел<small class="KICKASSELEMENT"> (когда готово)</small></p>
-        </div>
-        <div class="KICKASSELEMENT">
-            <p class="KICKASSELEMENT">ОЧКОВ: <span id="ka-score" class="KICKASSELEMENT">0</span></p>
-            <small class="KICKASSELEMENT">Я смог набрать 30 тысяч, а ты? ;)</small>
-        </div>
-    </div>
-		</div>
-	</div>
-	<div class="landing-con-discord darkmode-discord">
-		<div class="content-con-outside">
-			<div class="content-con-inside">
-				<div class="discord-con-container">
-					<div class="discord-con-logo">
-						<div class="discord-img-logo">
-						</div>
-					</div>
-					<div class="discord-con-mantra">
-						<div class="discord-wrp-mantra scale-content-txt-1">
-							<div class="discord-tx1-mantra darkmode-txt">
-								<h2>Наш Дискорд</h2>
-							</div>
-							<div class="discord-tx2-mantra darkmode-txt">
-								<p>
-									 У нас конечно-же есть наш дискорд и наше комьюнити которое очень дружелюбно и соблюдает все нащи принципы
-									 которые не очень строгие,мы это сделали для того чтобы нам не усложнять жизнь
-								</p>
-							</div>
-							<a href="https://discord.me/gamesworld" target="_blank">
-							<div class="discord-btn-button">
-								<div class="discord-ico-button">
-								</div>
-								<div class="discord-tx1-button">
-									<span>Присоедениться</span>
-								</div>
-							</div>
-							</a>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		<svg class="discord-con-animate" preserveaspectratio="none" width="1920" height="100%" viewbox="0 0 1920 330">
-		<path class="discord-svg-animate" fill="#fff" fill-opacity="0.1" d="M140.881198,194.260295 C257.600568,129.32862 342.939626,119.84993 418.009939,203.154617 C493.080251,286.459305 545.728689,70.9046172 636.439626,63.9593047 C727.150564,57.0139922 768.99822,139.670242 858.802907,119.431961 C948.607595,99.1936797 1071.91228,-32.9977266 1243.91228,7.75227342 C1415.91228,48.5022734 1404.10369,208.584305 1508.27166,178.709305 C1612.43963,148.834305 1633.73291,79.913472 1711.63588,98.8569055 C1776.28676,114.577866 1819.96778,221.391836 1889.37253,185.808108 C2017.32661,120.206212 2004.01952,336.769569 2004.01952,336.769569 L271.635881,337 L-149.063338,337 C-149.063338,337 -245.850307,175.637635 -58.0633382,228.867188 C33.8652851,254.92501 64.1722713,236.933925 140.881198,194.260295 Z"></path>
-		</svg>
-		<!-- Yandex.Metrika counter -->
-<script type="text/javascript" >
-   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
-   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
-   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
-
-   ym(82087585, "init", {
-        clickmap:true,
-        trackLinks:true,
-        accurateTrackBounce:true,
-        webvisor:true
-   });
-</script>
-<noscript><div><img src="https://mc.yandex.ru/watch/82087585" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->
-	</div>
-	<?php include 'lib/module/ui-main-footer.php';?>
-</body>
-</html>
