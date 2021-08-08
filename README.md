@@ -12,4 +12,5 @@ Thanks to all
 ## Author
 
 (C) 2021  Feralcas
-https://mifsoft.gq
+https://neropc.gq
+
