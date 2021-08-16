@@ -1,4 +1,4 @@
-# 🧰Mif Soft
+# 🧰W102018TV
 Responsive website with a beautiful design
 
 # Description
@@ -12,5 +12,5 @@ Thanks to all
 ## Author
 
 (C) 2021  Feralcas
-https://neropc.gq
+https://w102018tv.xyz
 
