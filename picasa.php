@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="ru">
 <head>
-<title>๖ۣۜMif ๖ۣۜSoft &bull;Главная </title>
+<title>๖ۣۜNero ๖ۣۜPc &bull;Picasa 3.9 </title>
 <meta charset="utf-8">
 <meta name="description" content="МифСофт - это чистые сборки Windows с приятным интерфейсом.">
 <meta name="keywords" content="mifsoft,сборки,Windows">
@@ -11,14 +11,11 @@
 <?php include 'lib/module/sys-meta.php';?>
 <script data-cfasync="false" src='/lib/js/carousel.js?v=1'></script>
 <?php include 'lib/module/sys-php.php';?>
-<?php include 'lib/module/sys-2.php';?>
-
-
 </head>
+<body>
+ <?php include 'lib/module/ui-main-video.php'?>
+ <?php include 'lib/module/sys-2.php';?>
 
-
-
-  <!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 
   
    </head> 
@@ -27,6 +24,7 @@
 
 	<div class="main center">
 
+			
 			<div class="search-box">
                 <formo>
 					<inputsasas>
@@ -53,7 +51,7 @@
 					<div id='dle-content'><article class="full">
 
 	<header class="full-title">
-		<h1>MyPall Repack by mif</h1>
+		<h1>Picasa 3.9 </h1>
 		
 			
 	</header>
@@ -62,7 +60,7 @@
 
 		<div class="col-mov-left">
 			<div class="mov-img">
-                <img src="/img/img-sborki/mypal-repack.png" alt="Виндовс 11" />
+                <img src="/img/img-sborki/picasa.jpg" alt="Picasa" />
 			</div>
 <center>
 				
@@ -79,17 +77,17 @@
 		</div>
 		<!-- end col-mov-left -->
 		<div class="col-mov-right">
-MyPall Repack by mif
+Picasa 3.9
 <br>
 <br>
 			<ul class="mov-list">
 			    
-				<li><div class="mov-label">Версия:</div> <div class="mov-desc"> Mypal </div></li>
-				<li><div class="mov-label">Разработчик:</div> <div class="mov-desc"> Mif Soft (Mypal Dev) </div></li>
+				<li><div class="mov-label">Версия:</div> <div class="mov-desc">Google Picasa 3.9</div></li>
+				<li><div class="mov-label">Разработчик:</div> <div class="mov-desc">Google</div></li>
 				<li><div class="mov-label">Язык интерфейса:</div> <div class="mov-desc"> Мультиязычный </div></li>
-				<li><div class="mov-label">Разрядность:</div> <div class="mov-desc"> обе</div></li>
-				<li><div class="mov-label">Лечение:</div> <div class="mov-desc"> Не нужана </div></li>
-				<li><div class="mov-label">Размер:</div> <div class="mov-desc">50 мб </div></li>
+				<li><div class="mov-label">Разрядность:</div> <div class="mov-desc"> оба </div></li>
+				<li><div class="mov-label">Лечение:</div> <div class="mov-desc"> не нужна</div></li>
+				<li><div class="mov-label">Размер:</div> <div class="mov-desc"> 3.66 мб </div></li>
 
 			</ul>
 			
@@ -98,7 +96,7 @@ MyPall Repack by mif
              
 <div class="tor">
 <div class="attach clearfix ignore-select">
-	<a href="/media/MYPAL_BY_MIFSOFT.exe"><i class="fa fa-download"></i>Скачать с нашего сайта</a> 
+	<a href="/media/picasa39-setup.exe"><i class="fa fa-download"></i>Скачать с нашего сервера</a> 
 </div>
 </div>
 
@@ -112,12 +110,11 @@ MyPall Repack by mif
 		<b><h3>Описание:</b></h3>
 		<br>
 	<div class="fullnews">
-Mypal - современный браузер для систем Windows XP\Vista.
-
-Первый репак от МифСофт.
-Поиск по умолчанию и домашняя страница - Google.
-В браузер добавлен блокировщик рекламы uBlock Origin.
-<b>Репак проверил Feralcs Работает</b>
+    <p>Google Picasa - это мега крутая программа, которая уже к сожалению не поддерживается компанией Google.<br />Но у нас Вы всё еще можете скачать последнюю выпущенную версию.</p>
+<p>Если вкратце, то Picasa это шикарная замена стандартному средству просмотра изображений в Windows.<br />Особенно это проблема для юзеров Windows 10, потому что там просмотрщик убогий и медленный.<br />А еще страшный 🤬</p>
+<p>Поэтому если Вы юзер десятки, скорее ставьте Google Picasa =)<br />Вы сразу почувствуете насколько она прекрасна и удобна.<br />Я сам ей пользуюсь уже много лет.</p>
+<p style="text-align: center;"><strong><span style="color: #18bc9b;">--- Вы будете скачивать самую последнюю версию Google Picasa из когда-либо выпущенных, больше новых версий не будет ---</span></strong></p
+   
 		<br>
 		<br>
 		<br>

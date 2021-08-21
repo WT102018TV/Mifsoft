@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="ru">
 <head>
-<title>๖ۣۜMif ๖ۣۜSoft &bull;Главная </title>
+<title>๖ۣۜNero ๖ۣۜPc &bull;Photoshop 2021 </title>
 <meta charset="utf-8">
 <meta name="description" content="МифСофт - это чистые сборки Windows с приятным интерфейсом.">
 <meta name="keywords" content="mifsoft,сборки,Windows">
@@ -11,13 +11,11 @@
 <?php include 'lib/module/sys-meta.php';?>
 <script data-cfasync="false" src='/lib/js/carousel.js?v=1'></script>
 <?php include 'lib/module/sys-php.php';?>
-<?php include 'lib/module/sys-2.php';?>
-
-
 </head>
-
-
-
+<body>
+ <?php include 'lib/module/ui-main-video.php'?>
+  <link href="/lib/css/fordownload.css" type="text/css" rel="stylesheet" />
+  <link href="https://windowsbit.net/templates/WindowsBit/style/engine.css" type="text/css" rel="stylesheet" />
   <!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 
   
@@ -27,6 +25,7 @@
 
 	<div class="main center">
 
+			
 			<div class="search-box">
                 <formo>
 					<inputsasas>
@@ -53,7 +52,7 @@
 					<div id='dle-content'><article class="full">
 
 	<header class="full-title">
-		<h1>MyPall Repack by mif</h1>
+		<h1>Dism++ </h1>
 		
 			
 	</header>
@@ -62,7 +61,7 @@
 
 		<div class="col-mov-left">
 			<div class="mov-img">
-                <img src="/img/img-sborki/mypal-repack.png" alt="Виндовс 11" />
+                <img src="/img/img-sborki/dism++.png" alt="Виндовс 11" />
 			</div>
 <center>
 				
@@ -79,17 +78,17 @@
 		</div>
 		<!-- end col-mov-left -->
 		<div class="col-mov-right">
-MyPall Repack by mif
+ Dism ++
 <br>
 <br>
 			<ul class="mov-list">
 			    
-				<li><div class="mov-label">Версия:</div> <div class="mov-desc"> Mypal </div></li>
-				<li><div class="mov-label">Разработчик:</div> <div class="mov-desc"> Mif Soft (Mypal Dev) </div></li>
+				<li><div class="mov-label">Версия:</div> <div class="mov-desc">Dism10.1.1000.90B</div></li>
+				<li><div class="mov-label">Разработчик:</div> <div class="mov-desc">Dism Team</div></li>
 				<li><div class="mov-label">Язык интерфейса:</div> <div class="mov-desc"> Мультиязычный </div></li>
-				<li><div class="mov-label">Разрядность:</div> <div class="mov-desc"> обе</div></li>
-				<li><div class="mov-label">Лечение:</div> <div class="mov-desc"> Не нужана </div></li>
-				<li><div class="mov-label">Размер:</div> <div class="mov-desc">50 мб </div></li>
+				<li><div class="mov-label">Разрядность:</div> <div class="mov-desc"> оба </div></li>
+				<li><div class="mov-label">Лечение:</div> <div class="mov-desc"> не нужна</div></li>
+				<li><div class="mov-label">Размер:</div> <div class="mov-desc"> 3.66 мб </div></li>
 
 			</ul>
 			
@@ -98,7 +97,7 @@ MyPall Repack by mif
              
 <div class="tor">
 <div class="attach clearfix ignore-select">
-	<a href="/media/MYPAL_BY_MIFSOFT.exe"><i class="fa fa-download"></i>Скачать с нашего сайта</a> 
+	<a href="/media/Dism++.zip"><i class="fa fa-download"></i>Скачать с нашего сервера</a> 
 </div>
 </div>
 
@@ -112,12 +111,23 @@ MyPall Repack by mif
 		<b><h3>Описание:</b></h3>
 		<br>
 	<div class="fullnews">
-Mypal - современный браузер для систем Windows XP\Vista.
+  Dism++ - программа для очистки операционной системы от собравшегося в разных ее уголках мусора: временных файлов, логов, устаревших файлов, кэша и т.п.
+Предлагает достаточно богатый функционал, который отлично справляется со своим назначением.
 
-Первый репак от МифСофт.
-Поиск по умолчанию и домашняя страница - Google.
-В браузер добавлен блокировщик рекламы uBlock Origin.
-<b>Репак проверил Feralcs Работает</b>
+В наличии два варианта очистки: быстрый и глубокий.
+Также позволяет быстро удалять устаревшие драйвера и приложения.
+Особенностью приложения является возможность сжатия установленной операционной системы. Процент сжатия пользователь выбирает самостоятельно.
+
+--- Быстро почистить комп от мусора - самое то! ---
+ВОЗМОЖНОСТИ
+
+Сжатие ОС Windows
+Работа с драйверами: удаление, обновление, загрузка
+Работа со службами: отключение ненужных, возможность их вообще удалить
+Работа с обновлениями и компонентами Windows
+Очистка временных/ненужных файлов (с детальным описанием что будет удалено)
+Многое друго
+   
 		<br>
 		<br>
 		<br>

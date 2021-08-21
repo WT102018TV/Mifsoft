@@ -10,15 +10,16 @@
 <meta name="google-site-verification" content="cO1o6sx54cvKxhbnYsABWtl4sYFj9uVKV0DxLKZkWv8"/>
 <?php include 'lib/module/sys-meta.php';?>
 <script data-cfasync="false" src='/lib/js/carousel.js?v=1'></script>
-<?php include 'lib/module/sys-php.php';?>
-<?php include 'lib/module/sys-2.php';?>
-
-
 </head>
+<body>
+ <?php include 'lib/module/sys-2.php'?>
+ <?php include 'lib/module/sys-php.php';?>
+
 
 
 
   <!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+
 
   
    </head> 
@@ -26,6 +27,7 @@
 <div class="wrap">
 
 	<div class="main center">
+
 
 			<div class="search-box">
                 <formo>
@@ -53,7 +55,7 @@
 					<div id='dle-content'><article class="full">
 
 	<header class="full-title">
-		<h1>MyPall Repack by mif</h1>
+		<h1>Recuva - Софт для восстановления любых файлов</h1>
 		
 			
 	</header>
@@ -62,7 +64,7 @@
 
 		<div class="col-mov-left">
 			<div class="mov-img">
-                <img src="/img/img-sborki/mypal-repack.png" alt="Виндовс 11" />
+                <img src="/img/img-sborki/recuva.png" alt="Виндовс 11" />
 			</div>
 <center>
 				
@@ -79,17 +81,17 @@
 		</div>
 		<!-- end col-mov-left -->
 		<div class="col-mov-right">
-MyPall Repack by mif
+Recuva - Софт для восстановления любых файлов
 <br>
 <br>
 			<ul class="mov-list">
 			    
-				<li><div class="mov-label">Версия:</div> <div class="mov-desc"> Mypal </div></li>
-				<li><div class="mov-label">Разработчик:</div> <div class="mov-desc"> Mif Soft (Mypal Dev) </div></li>
-				<li><div class="mov-label">Язык интерфейса:</div> <div class="mov-desc"> Мультиязычный </div></li>
-				<li><div class="mov-label">Разрядность:</div> <div class="mov-desc"> обе</div></li>
+				<li><div class="mov-label">Версия:</div> <div class="mov-desc">v 1.53.1087</div></li>
+				<li><div class="mov-label">Разработчик:</div> <div class="mov-desc"> Pifiform </div></li>
+				<li><div class="mov-label">Язык интерфейса:</div> <div class="mov-desc"> Eng</div></li>
+				<li><div class="mov-label">Разрядность:</div> <div class="mov-desc"> Обе</div></li>
 				<li><div class="mov-label">Лечение:</div> <div class="mov-desc"> Не нужана </div></li>
-				<li><div class="mov-label">Размер:</div> <div class="mov-desc">50 мб </div></li>
+				<li><div class="mov-label">Размер:</div> <div class="mov-desc"> 5.3 мб </div></li>
 
 			</ul>
 			
@@ -98,7 +100,7 @@ MyPall Repack by mif
              
 <div class="tor">
 <div class="attach clearfix ignore-select">
-	<a href="/media/MYPAL_BY_MIFSOFT.exe"><i class="fa fa-download"></i>Скачать с нашего сайта</a> 
+	<a href="/media/rcsetup153.exe"><i class="fa fa-download"></i>Скачать с нашего сервера</a> 
 </div>
 </div>
 
@@ -112,15 +114,10 @@ MyPall Repack by mif
 		<b><h3>Описание:</b></h3>
 		<br>
 	<div class="fullnews">
-Mypal - современный браузер для систем Windows XP\Vista.
 
-Первый репак от МифСофт.
-Поиск по умолчанию и домашняя страница - Google.
-В браузер добавлен блокировщик рекламы uBlock Origin.
-<b>Репак проверил Feralcs Работает</b>
-		<br>
-		<br>
-		<br>
+Это программа совместимая с Windows, и ее также можно использовать для извлечения удаленных файлов с внешних дисков и устройств, таких как Mp3-плееры.
+
+Программа имеет простой интерфейс, как и любая программа Windows. Программу можно запустить через USB-накопитель. Программа также поддерживает такие ключевые форматы, как файловые системы FAT12, FAT16, FAT32, exFAT, NTFS, NTFS5, NTFS + EFS и другие. Программа способна восстанавливать все типы файлов. Сюда входят офисные документы, изображения, фотографии, видео, аудио, музыка, электронная почта и т. Д. Программа также может восстанавливать данные с жестких дисков ZIP, Firewire и USB.
 	</div>
 <div> 
 <br>

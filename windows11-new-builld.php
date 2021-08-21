@@ -9,24 +9,22 @@
 <meta name="copyright" content="МифСофт">
 <meta name="google-site-verification" content="cO1o6sx54cvKxhbnYsABWtl4sYFj9uVKV0DxLKZkWv8"/>
 <?php include 'lib/module/sys-meta.php';?>
-<script data-cfasync="false" src='/lib/js/carousel.js?v=1'></script>
-<?php include 'lib/module/sys-php.php';?>
+<?php include 'lib/module/sys-js.php';?>
 <?php include 'lib/module/sys-2.php';?>
-
-
+<script data-cfasync="false" src='/lib/js/carousel.js?v=1'></script>
+<style type="lib\css\sidebar.css"></style>
 </head>
-
-
+<?php include 'lib/module/sys-php.php';?>
+<body>
 
   <!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-
-  
-   </head> 
+ </head> 
   <body>
 <div class="wrap">
 
 	<div class="main center">
 
+			
 			<div class="search-box">
                 <formo>
 					<inputsasas>
@@ -53,16 +51,17 @@
 					<div id='dle-content'><article class="full">
 
 	<header class="full-title">
-		<h1>MyPall Repack by mif</h1>
+		<h1>Windows 11 new</h1>
 		
 			
+				<div class="orig-name">торрент создан 12.07.2021/div>
 	</header>
 	<hr style="width:100%;border:none;color:#d9dde1;background-color:#d9dde1;height:1px;">
 	<div class="cols-mov clearfix ignore-select">
 
 		<div class="col-mov-left">
 			<div class="mov-img">
-                <img src="/img/img-sborki/mypal-repack.png" alt="Виндовс 11" />
+                <img src="/img/img-sborki/Windows-11.png" alt="Виндовс 11" />
 			</div>
 <center>
 				
@@ -79,17 +78,17 @@
 		</div>
 		<!-- end col-mov-left -->
 		<div class="col-mov-right">
-MyPall Repack by mif
+Windows 11 слитый образ
 <br>
 <br>
 			<ul class="mov-list">
 			    
-				<li><div class="mov-label">Версия:</div> <div class="mov-desc"> Mypal </div></li>
-				<li><div class="mov-label">Разработчик:</div> <div class="mov-desc"> Mif Soft (Mypal Dev) </div></li>
-				<li><div class="mov-label">Язык интерфейса:</div> <div class="mov-desc"> Мультиязычный </div></li>
-				<li><div class="mov-label">Разрядность:</div> <div class="mov-desc"> обе</div></li>
+				<li><div class="mov-label">Версия:</div> <div class="mov-desc"> Windows 11 Developer Preview </div></li>
+				<li><div class="mov-label">Разработчик:</div> <div class="mov-desc"> Microsoft </div></li>
+				<li><div class="mov-label">Язык интерфейса:</div> <div class="mov-desc"> Eng </div></li>
+				<li><div class="mov-label">Разрядность:</div> <div class="mov-desc"> 64 bit </div></li>
 				<li><div class="mov-label">Лечение:</div> <div class="mov-desc"> Не нужана </div></li>
-				<li><div class="mov-label">Размер:</div> <div class="mov-desc">50 мб </div></li>
+				<li><div class="mov-label">Размер:</div> <div class="mov-desc"> 4.5 Гб </div></li>
 
 			</ul>
 			
@@ -98,7 +97,7 @@ MyPall Repack by mif
              
 <div class="tor">
 <div class="attach clearfix ignore-select">
-	<a href="/media/MYPAL_BY_MIFSOFT.exe"><i class="fa fa-download"></i>Скачать с нашего сайта</a> 
+	<a href="https://dl.malwat.ch/windows/creatingISO_22000.51_en-us_amd64_professional.cmd"><i class="fa fa-download"></i>Windows 11.torrent</a> 
 </div>
 </div>
 
@@ -112,16 +111,12 @@ MyPall Repack by mif
 		<b><h3>Описание:</b></h3>
 		<br>
 	<div class="fullnews">
-Mypal - современный браузер для систем Windows XP\Vista.
 
-Первый репак от МифСофт.
-Поиск по умолчанию и домашняя страница - Google.
-В браузер добавлен блокировщик рекламы uBlock Origin.
-<b>Репак проверил Feralcs Работает</b>
+	<b>Системные требования к компьютеру или ноутбуку:</b><br><br>Процессор 64-разрядный CPU с частотой от 1 ГГц и выше;<br>Объём оперативной памяти не менее 2 ГБ ОЗУ и больше;<br>HDD\SSD объёмом не менее 20 ГБ;<br>Видеоадаптер с поддержкой DirectX версии 9.0 или более поздней;<br>Дисплей с минимальным разрешением экрана не менее 800х600 пикселей.<br><b>Список удалённых компонентов </b><br><br>
+	Ничего не удалено
 		<br>
 		<br>
 		<br>
-	</div>
 <div> 
 <br>
 <center><h3><b>Обсуждения - комментарии </center></h3></b>

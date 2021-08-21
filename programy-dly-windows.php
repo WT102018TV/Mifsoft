@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="ru">
 <head>
-<title>๖ۣۜMif ๖ۣۜSoft &bull;Главная </title>
+<title>๖ۣۜNero ๖ۣۜPc &bull;Программы  </title>
 <meta charset="utf-8">
 <meta name="description" content="МифСофт - это чистые сборки Windows с приятным интерфейсом.">
 <meta name="keywords" content="mifsoft,сборки,Windows">
@@ -10,9 +10,9 @@
 <meta name="google-site-verification" content="cO1o6sx54cvKxhbnYsABWtl4sYFj9uVKV0DxLKZkWv8"/>
 <?php include 'lib/module/sys-meta.php';?>
 <?php include 'lib/module/sys-2.php';?>
+<?php include 'lib/module/sys-php.php';?>
 </head>
   <!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
   <meta name="yandex-verification" content="6d503e7caac40356" />
   <meta name="yandex-verification" content="6d503e7caac40356" />
 
@@ -21,8 +21,8 @@
 <div class="wrap">
 
 	<div class="main center">
-		<header class="header" id="header">
-			<a href="/" class="logotype" title="mifsoft основной сайт"></a>
+
+
 			<div class="search-box">
                 <formo>
 					<inputsasas>
@@ -96,6 +96,55 @@
 			</ul>
 			<div class="movie-desc2">
 Adobe Photoshop — это комплексное решение для профессиональной обработки цифровых изображений, которое содержит самые современные инструменты для работы с изображениями и новые возможности для реализации творческих идей, которые позволяют значительно повысить производительность. Редактируйте изображения с исключительной точностью, используйте новые интуитивно понятные инструменты и рабочие процессы для создания трехмерной графики, двухмерных проектов, а также фильмов ПАРОЛЬ:repack.me</div>
+	</div>
+</div><div class="mov clearfix">
+	<div class="mov-i img-box">
+		<img src="img/img-sborki/dism++.png" alt= />
+		<div class="mov-mask flex-col ps-link" data-link="/dism++.php"><span class="fa fa-play"></span></div>
+		
+			
+			
+	</div>
+	<a class="mov-t nowrap" href="/dism++.php">Dism++ - Лучшая очистка мусора на винде </a>
+	<div class="movie-text">
+			<ul class="movie-lines">
+				<li><div class="ml-label">Версия:</div><div class="ml-desc"> Dism10.1.1000.90B </div></li>
+				<li><div class="ml-label">Разработчик: </div> <div class="ml-desc">Dism Team</div></li>
+				<li><div class="ml-label">Язык интерфейса:</div> <div class="ml-desc"> RU-ENG </div></li>
+				<li><div class="ml-label">Разрядность:</div> <div class="ml-desc"> обе </div></li>
+				<li><div class="ml-label">Лечение:</div> <div class="ml-desc"> Ненужна </div></li>
+			    <li><div class="ml-label">Размер:</div> <div class="ml-desc"> 3.66 мб </div></li>
+			</ul>
+			<div class="movie-desc2">Программа для очистки операционной системы от собравшегося в разных ее уголках мусора: временных файлов, логов, устаревших файлов, кэша и т.п. Предлагает достаточно богатый функционал, который отлично справляется со своим назначением.</div>
+			</div>
+</div><div class="mov clearfix">
+	<div class="mov-i img-box">
+	<img src="/img/img-sborki/picasa.jpg" alt="Picasa" />
+		<div class="mov-mask flex-col ps-link" data-link="/picasa"><span class="fa fa-play"></span></div>
+		
+			
+			
+	</div>
+	<a class="mov-t nowrap" href="/picasa">Google Picasa 3</a>
+	<div class="movie-text">
+			<ul class="movie-lines">
+				<li><div class="ml-label">Версия:</div><div class="ml-desc">Google Picasa 3.9</div></li>
+				<li><div class="ml-label">Разработчик: </div> <div class="ml-desc">Google</div></li>
+				<li><div class="ml-label">Язык интерфейса:</div> <div class="ml-desc">Мультиязычный</div></li>
+				<li><div class="ml-label">Разрядность:</div> <div class="ml-desc">Обе</div></li>
+				<li><div class="ml-label">Лечение:</div> <div class="ml-desc">Не Требует</div></li>
+			    <li><div class="ml-label">Размер:</div> <div class="ml-desc"> 13 мб </div></li>
+			</ul>
+			<div class="movie-desc2">Вам надоел стандартный просмотрщик картинок? Он слишком уродливый, медленный или Вы просто хотите чего-то получше?
+Тогда <span style="color: #8ce471;"><strong>Google Picasa</strong></span> это Ваше спасение!!!</div>
+			
+			
+
+
+
+
+
+
 
 			
 			
@@ -123,107 +172,5 @@ Adobe Photoshop — это комплексное решение для проф
 
 					
 			<!-- end content -->
-			
-			<aside class="sidebar">
-                <br>
-				<br>
-				<br>
-				<div class="side-b">
-					<div class="side-t ic-l decor"><img src="/img/sidebar/win11.png" style="vertical-align: middle;"><b>Windows 11</b></img></div>
-					<div class="side-c flex-row">
-					<br>
-						<p><a href="/original-windows11.php" alt="">- Оригинальные образы Windows 11</a>
-						<br>
-						<br>
-						<p><a href="/1.php" alt="Лучшие сборки Windows 11 64 bit">- Лучшие сборки</a>
-					</div>
-				</div>
-               <hr style="width:80%; border: none; color: #d9dde1; background-color:#d9dde1;height: 1px;margin-left:20px;">
-			   <br>
-        <div class="side-b">
-					<div class="side-t ic-l decor"><img src="/img/sidebar/win7_logo.png" style="vertical-align: middle;"><b>Windows 7</b></img></div>
-					<div class="side-c flex-row">
-					<br>
-						<p><a href="" alt="/poka-net-sborok.php">- Оригинальные образы 7</a>
-						<br>
-						<br>
-						<p><a href="/poka-net-sborok.php" alt="Лучшие сборки Windows 7 64 bit">- Лучшие сборки</a>
-						<br>
-						<br>
-						<p><a href="/poka-net-sborok.php">- Live Windows 7 PE USB</a>
-					</div>
-				</div>
-               <hr style="width:80%; border: none; color: #d9dde1; background-color:#d9dde1;height: 1px;margin-left:20px;">
-			   <br>
-                     <div class="side-b">
-					<div class="side-t ic-l decor"><img src="/img/sidebar/win10.png" style="vertical-align: middle;"><b>Windows 10</b></img></div>
-					<div class="side-c flex-row">
-					<br>
-						<p><a href="/poka-net-sborok.php">- Оригинальные образы 10</a>
-						<br>
-						<br>
-						<p><a href="/poka-net-sborok.php">- Лучшие сборки</a>
-						<br>
-						<br>
-						<p><a href="/poka-net-sborok.php">- Live Windows 10 PE USB</a>
-					</div>
-				</div>
-				<hr style="width:80%; border: none; color: #d9dde1; background-color:#d9dde1;height: 1px;margin-left:20px;">
-				<br>
-				        <div class="side-b">
-					<div class="side-t ic-l decor"><img src="/img/sidebar/win10.png" style="vertical-align: middle;"><b>Windows 8</b></img></div>
-					<div class="side-c flex-row">
-					<br>
-						<p><a href="/poka-net-sborok.php">- Оригинальные образы 8</a>
-						<br>
-						<br>
-						<p><a href="/poka-net-sborok.php">- Лучшие сборки</a>
-					</div>
-				</div>
-				<hr style="width:80%; border: none; color: #d9dde1; background-color:#d9dde1;height: 1px;margin-left:20px;">
-				<br>
-						                     <div class="side-b">
-					<div class="side-t ic-l decor"><img src="/img/sidebar/win7_logo.png" style="vertical-align: middle;"><b>Windows XP</b></img></div>
-					<div class="side-c flex-row">
-					<br>
-						<p><a href="/poka-net-sborok.php">- Оригинальные образы XP</a>
-						<br>
-						<br>
-						<p><a href="/poka-net-sborok.php">- Лучшие сборки</a>
-						<br>
-						<br>
-						<p><a href="/poka-net-sborok.php">- Live Windows XP PE USB</a>
-					</div>
-				</div>
-				<hr style="width:80%; border: none; color: #d9dde1; background-color:#d9dde1;height: 1px;margin-left:20px;">
-			<br>
-				 <div class="side-b">
-					<div class="side-t ic-l decor"><img src="/img/sidebar/win7_logo.png" style="vertical-align: middle;"><b>Windows Server</b></img></div>
-					<div class="side-c flex-row">
-					<br>
-						<p><a href="/poka-net-sborok.php">- Оригинальные образы</a>
-						<br>
-						<br>
-						<p><a href="">- Лучшие сборки</a>
-					</div>
-				</div>
-				<hr style="width:80%; border: none; color: #d9dde1; background-color:#d9dde1;height: 1px;margin-left:20px;">    
-			<br>
-					<div class="side-c flex-row">
-					    <p><img src="/img/sidebar/softwin.png" style="vertical-align: middle;">   <a href="/programy-dly-windows"><font size=4>  Программы</font></a></img>
-					    <br>
-						<br>
-						<p><img src="/img/sidebar/awin.png" style="vertical-align: middle;">     <a href="/activator-wd"><font size=4>  Активаторы</font></a></img>
-						<br>
-						<br>
-				        <p><img src="/img/sidebar/Origin.png "style="vertical-align: middle;">   <a href="/games.php"><font size=4> Игры </font></a></img>
-					    <br>
-						<br>
-						</div>    
-<hr style="width:80%; border: none; color: #d9dde1; background-color:#d9dde1;height: 1px;margin-left:20px;"> 
-<div class="side-c flex-row">
-<br>
-				<br>
-
-<script>
+<?php include 'lib/module/sys-sidebar.php';?>
 

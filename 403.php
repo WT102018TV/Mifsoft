@@ -1,38 +1,89 @@
+
 <!doctype html>
-<html lang="en-US">
+<html>
 <head>
-<title>RPCS3 - 403</title>
-<meta charset="utf-8">
-<meta name="robots" content="noindex, nofollow">
-<?php include 'lib/module/sys-meta.php';?>
-<?php include 'lib/module/sys-css.php';?>
-<?php include 'lib/module/sys-js.php';?>
+    <title>403 Forbidden - Apache</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <style>
+        body {
+            background-color: #f1f4f5;
+            color: #37474f;
+            line-height: 1.4;
+            font-family: 'Open Sans', sans-serif;
+            margin: 0;
+            padding: 0;
+            }
+        .error_code {
+            display: block;
+            font-size: 92px;
+            font-weight: 700;
+            margin-top: -25px;
+            }
+        .error_brief {
+            display: block;
+            font-size: 18px;
+            font-weight: 700;
+            margin-bottom: 15px;
+            }
+        .help_button, .fix_button {
+            background-color: #399bff;
+            color: #fff;
+            margin-top: 15px;
+            font-size: 14px;
+            padding: 7px 20px 7px 20px;
+            border: none;
+            border-radius: 3px;
+            vertical-align: middle;
+            cursor: pointer;
+            }
+        .fix_button {
+            background-color: #38ad41;
+            }
+        #fix_details {
+            margin-top: 40px;
+            visibility: hidden;
+            opacity: 0;
+            transition: visibility 0.3s, opacity 0.3s linear;
+            }
+    </style>
+    
+    <script language="JavaScript">
+        function toggleHelp() {
+            var e = document.getElementById("fix_details");
+            if (e.style.visibility == 'visible') {
+                e.style.visibility = 'hidden';
+                e.style.opacity = 0;
+            } else {
+                e.style.visibility = 'visible';
+                e.style.opacity = 1;
+            }
+        }
+    </script>
 </head>
-<body style="background: #000;">
-<?php include 'lib/module/sys-php.php';?>
-<div class="page-con-content">
-	<div class="banner-con-backdrop darkmode-header" style="position:fixed;">
-		<div id="object-particles">
-		</div>
-		<div class="wavebar-con-container">
-			<div class="wavebar-con-wrap">
-			  <div class="wavebar-svg-object"></div>
-			  <div class="wavebar-svg-object"></div>
-			</div>
-		</div>
-		<div class="error-con-content">
-			<div class='error-ico-content' style="background: url('/img/icons/errors/403.png') no-repeat center; background-size:40px;">
-			</div>
-			<div class='error-tx1-content pulsate'>
-				<h1>Forbidden</h1>
-			</div>
-			<div class='error-tx2-content'>
-				<p>
-					 This page or file directory is forbidden
-				</p>
-			</div>
-		</div>
-	</div>
+<body>
+
+<div style="display: table; position: absolute; height: 100%; width: 100%;">
+    <div style="display: table-cell; vertical-align: middle; padding: 0 40px;">
+        <div style="margin-left: auto; margin-right: auto; width: 520px;">
+            <div style="float:left; width:200px; text-align: center; padding-right: 20px;">
+                <span class="error_code">403</span>
+                <span class="error_description">Forbidden</span>
+            </div>
+            <div style="float:left; width:300px;">
+                <span class="error_brief">В доступе отказано</span>
+                <span class="error_detail">Возможно, не загружен индексный файл или неправильно указаны права для него.</span>
+                <br>
+                <input type="button" value="На главную" class="help_button" onclick="toggleHelp()">
+            </div>
+            <div style="clear:both"></div>
+            <div id="fix_details">
+                
+                <a href="/">Клик</a> 
+            </div>
+        </div>
+    </div>
 </div>
+
 </body>
-</html>

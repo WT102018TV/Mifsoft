@@ -10,15 +10,15 @@
 <meta name="google-site-verification" content="cO1o6sx54cvKxhbnYsABWtl4sYFj9uVKV0DxLKZkWv8"/>
 <?php include 'lib/module/sys-meta.php';?>
 <script data-cfasync="false" src='/lib/js/carousel.js?v=1'></script>
-<?php include 'lib/module/sys-php.php';?>
-<?php include 'lib/module/sys-2.php';?>
-
-
+<style type="lib\css\sidebar.css"></style>
 </head>
-
-
+<?php include 'lib/module/sys-php.php';?>
+<body>
+ <?php include 'lib/module/ui-main-video.php'?>
+ <?php include 'lib/module/sys-2.php';?>
 
   <!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+>
 
   
    </head> 
@@ -26,7 +26,8 @@
 <div class="wrap">
 
 	<div class="main center">
-
+		<header>
+			<a>
 			<div class="search-box">
                 <formo>
 					<inputsasas>
@@ -53,7 +54,7 @@
 					<div id='dle-content'><article class="full">
 
 	<header class="full-title">
-		<h1>MyPall Repack by mif</h1>
+		<h1>Windows 7 by mif soft</h1>
 		
 			
 	</header>
@@ -62,7 +63,7 @@
 
 		<div class="col-mov-left">
 			<div class="mov-img">
-                <img src="/img/img-sborki/mypal-repack.png" alt="Виндовс 11" />
+                <img src="/img/img-sborki/win7mif.png" alt="Виндовс 11" />
 			</div>
 <center>
 				
@@ -79,17 +80,17 @@
 		</div>
 		<!-- end col-mov-left -->
 		<div class="col-mov-right">
-MyPall Repack by mif
+Windows 7 by mifsoft 
 <br>
 <br>
 			<ul class="mov-list">
 			    
-				<li><div class="mov-label">Версия:</div> <div class="mov-desc"> Mypal </div></li>
-				<li><div class="mov-label">Разработчик:</div> <div class="mov-desc"> Mif Soft (Mypal Dev) </div></li>
+				<li><div class="mov-label">Версия:</div> <div class="mov-desc"> Windows 7 </div></li>
+				<li><div class="mov-label">Разработчик:</div> <div class="mov-desc"> Microsoft </div></li>
 				<li><div class="mov-label">Язык интерфейса:</div> <div class="mov-desc"> Мультиязычный </div></li>
-				<li><div class="mov-label">Разрядность:</div> <div class="mov-desc"> обе</div></li>
+				<li><div class="mov-label">Разрядность:</div> <div class="mov-desc"> 32</div></li>
 				<li><div class="mov-label">Лечение:</div> <div class="mov-desc"> Не нужана </div></li>
-				<li><div class="mov-label">Размер:</div> <div class="mov-desc">50 мб </div></li>
+				<li><div class="mov-label">Размер:</div> <div class="mov-desc"> 4.5 Гб </div></li>
 
 			</ul>
 			
@@ -98,7 +99,7 @@ MyPall Repack by mif
              
 <div class="tor">
 <div class="attach clearfix ignore-select">
-	<a href="/media/MYPAL_BY_MIFSOFT.exe"><i class="fa fa-download"></i>Скачать с нашего сайта</a> 
+	<a href="https://disk.yandex.ru/d/INBvDzuK3f09sQ"><i class="fa fa-download"></i>Скачать с яндекс диска</a> 
 </div>
 </div>
 
@@ -112,12 +113,13 @@ MyPall Repack by mif
 		<b><h3>Описание:</b></h3>
 		<br>
 	<div class="fullnews">
-Mypal - современный браузер для систем Windows XP\Vista.
 
-Первый репак от МифСофт.
-Поиск по умолчанию и домашняя страница - Google.
-В браузер добавлен блокировщик рекламы uBlock Origin.
-<b>Репак проверил Feralcs Работает</b>
+	<b>Системные требования к компьютеру или ноутбуку:</b><br><br>Процессор 64-разрядный CPU с частотой от 1 ГГц и выше;<br>Объём оперативной памяти не менее 2 ГБ ОЗУ и больше;<br>HDD\SSD объёмом не менее 20 ГБ;<br>Видеоадаптер с поддержкой DirectX версии 9.0 или более поздней;<br> UPDATE: <a href="https://disk.yandex.ru/d/neeg_tDoJma0lw">ставить из сборки</a><br>
+Дисплей с минимальным разрешением экрана не менее 800х600 пикселей.<br><b>
+	<br><b>Список удалённых компонентов</b><br><br> 
+    
+
+	<br><b>Ничего не удалено</b><br><br>
 		<br>
 		<br>
 		<br>
@@ -143,4 +145,3 @@ Mypal - современный браузер для систем Windows XP\Vis
 VK.Widgets.Comments("vk_comments", {limit: 10, attach: "*"});
 </script>
 </script> <head>
- </html>

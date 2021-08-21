@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="ru">
 <head>
-<title>๖ۣۜMif ๖ۣۜSoft &bull;Главная </title>
+<title>๖ۣۜNero ๖ۣۜPc &bull;Photoshop 2021 </title>
 <meta charset="utf-8">
 <meta name="description" content="МифСофт - это чистые сборки Windows с приятным интерфейсом.">
 <meta name="keywords" content="mifsoft,сборки,Windows">
@@ -10,14 +10,13 @@
 <meta name="google-site-verification" content="cO1o6sx54cvKxhbnYsABWtl4sYFj9uVKV0DxLKZkWv8"/>
 <?php include 'lib/module/sys-meta.php';?>
 <script data-cfasync="false" src='/lib/js/carousel.js?v=1'></script>
-<style type="lib\css\sidebar.css"></style>
+<?php include 'lib/module/sys-php.php';?>
 </head>
 <body>
  <?php include 'lib/module/ui-main-video.php'?>
   <link href="/lib/css/fordownload.css" type="text/css" rel="stylesheet" />
   <link href="https://windowsbit.net/templates/WindowsBit/style/engine.css" type="text/css" rel="stylesheet" />
   <!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
 
   
    </head> 
@@ -25,8 +24,8 @@
 <div class="wrap">
 
 	<div class="main center">
-		<header class="header" id="header">
-			<a href="/" class="logotype" title="mifsoft основной сайт"></a>
+
+			
 			<div class="search-box">
                 <formo>
 					<inputsasas>

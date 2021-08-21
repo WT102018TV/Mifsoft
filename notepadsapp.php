@@ -1,24 +1,22 @@
 <!doctype html>
 <html lang="ru">
 <head>
-<title>๖ۣۜMif ๖ۣۜSoft &bull;Главная </title>
+<title>๖ۣۜNero ๖ۣۜPC &bull;Notepad App </title>
 <meta charset="utf-8">
-<meta name="description" content="МифСофт - это чистые сборки Windows с приятным интерфейсом.">
-<meta name="keywords" content="mifsoft,сборки,Windows">
+<meta name="description" content="Nero Pc - это чистые сборки Windows с приятным интерфейсом.">
+<meta name="keywords" content="Nero Pc,сборки,Windows">
 <meta name="author" content="Feralcas">
-<meta name="copyright" content="МифСофт">
+<meta name="copyright" content="Nero Pc">
 <meta name="google-site-verification" content="cO1o6sx54cvKxhbnYsABWtl4sYFj9uVKV0DxLKZkWv8"/>
 <?php include 'lib/module/sys-meta.php';?>
 <script data-cfasync="false" src='/lib/js/carousel.js?v=1'></script>
-<?php include 'lib/module/sys-php.php';?>
-<?php include 'lib/module/sys-2.php';?>
-
-
+<style type="lib\css\sidebar.css"></style>
 </head>
+<body>
+<?php include 'lib/module/sys-2.php';?>
+<?php include 'lib/module/sys-php.php';?>
 
 
-
-  <!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 
   
    </head> 
@@ -26,7 +24,7 @@
 <div class="wrap">
 
 	<div class="main center">
-
+		
 			<div class="search-box">
                 <formo>
 					<inputsasas>
@@ -53,7 +51,7 @@
 					<div id='dle-content'><article class="full">
 
 	<header class="full-title">
-		<h1>MyPall Repack by mif</h1>
+		<h1>Notepads App - Минималистичный текстовый редактор</h1>
 		
 			
 	</header>
@@ -62,7 +60,7 @@
 
 		<div class="col-mov-left">
 			<div class="mov-img">
-                <img src="/img/img-sborki/mypal-repack.png" alt="Виндовс 11" />
+                <img src="/img/img-sborki/notepads-app-.png" alt="Виндовс 11" />
 			</div>
 <center>
 				
@@ -79,17 +77,17 @@
 		</div>
 		<!-- end col-mov-left -->
 		<div class="col-mov-right">
-MyPall Repack by mif
+Notepads App - Минималистичный текстовый редактор
 <br>
 <br>
 			<ul class="mov-list">
 			    
-				<li><div class="mov-label">Версия:</div> <div class="mov-desc"> Mypal </div></li>
-				<li><div class="mov-label">Разработчик:</div> <div class="mov-desc"> Mif Soft (Mypal Dev) </div></li>
-				<li><div class="mov-label">Язык интерфейса:</div> <div class="mov-desc"> Мультиязычный </div></li>
+				<li><div class="mov-label">Версия:</div> <div class="mov-desc">v1.3.7.0 </div></li>
+				<li><div class="mov-label">Разработчик:</div> <div class="mov-desc">Jackie Liu‬ </div></li>
+				<li><div class="mov-label">Язык интерфейса:</div> <div class="mov-desc">Eng</div></li>
 				<li><div class="mov-label">Разрядность:</div> <div class="mov-desc"> обе</div></li>
-				<li><div class="mov-label">Лечение:</div> <div class="mov-desc"> Не нужана </div></li>
-				<li><div class="mov-label">Размер:</div> <div class="mov-desc">50 мб </div></li>
+				<li><div class="mov-label">Лечение:</div> <div class="mov-desc"> Не требуеться </div></li>
+				<li><div class="mov-label">Размер:</div> <div class="mov-desc">33 мб </div></li>
 
 			</ul>
 			
@@ -98,7 +96,7 @@ MyPall Repack by mif
              
 <div class="tor">
 <div class="attach clearfix ignore-select">
-	<a href="/media/MYPAL_BY_MIFSOFT.exe"><i class="fa fa-download"></i>Скачать с нашего сайта</a> 
+	<a href="https://www.microsoft.com/en-us/p/notepads-app/9nhl4nsc67wm?activetab=pivot:overviewtab#"><i class="fa fa-download"></i>Скачать с внешнего сайта</a> 
 </div>
 </div>
 
@@ -112,12 +110,15 @@ MyPall Repack by mif
 		<b><h3>Описание:</b></h3>
 		<br>
 	<div class="fullnews">
-Mypal - современный браузер для систем Windows XP\Vista.
+Notepads App - Минималистичный текстовый редактор
 
-Первый репак от МифСофт.
-Поиск по умолчанию и домашняя страница - Google.
-В браузер добавлен блокировщик рекламы uBlock Origin.
-<b>Репак проверил Feralcs Работает</b>
+- Свободный дизайн со встроенной системой вкладок.
+- Невероятно быстрый и легкий.
+- Запустите из командной строки или PowerShell, набрав: «блокноты»
+- Поддержка многострочного рукописного ввода.
+- Встроенная программа просмотра файлов Markdown.
+- Встроенный просмотрщик различий (предварительный просмотр ваших изменений).
+- Снимок сеанса и несколько экземпляров.
 		<br>
 		<br>
 		<br>
